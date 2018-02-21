@@ -4,5 +4,5 @@ end
 
 def array_with_two_elements
   array = []
-  array << 1 & 2
+  array << 1 , 2
 end
